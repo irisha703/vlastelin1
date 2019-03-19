@@ -1,3 +1,3 @@
 # vlastelin1
 new site
-vlastelin1
+vlastelin1.github.io
